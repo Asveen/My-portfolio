@@ -1,0 +1,117 @@
+{
+  "main": {
+    "name": "Asveen Kaur",
+    "occupation": "Project Engineer @WiproLimited",
+    "description": "Working over an EDW Project.",
+    "image": "AK.jpg",
+    "bio": "My name is Asveen, I'm passionate to learn new Tech. Currently I'm working at Wipro Limited as Project Engineer. ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "asveenk@gmail.com",
+    "phone": "+91 12 345 6789",
+    "address": {
+      "street": "123 Fake Street",
+      "city": "Delhi",
+      "state": "India",
+      "zip": "123123"
+    },
+    "website": "http://www.asveenk.com",
+    "resumedownload": "http://asveenk.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/asveen.star",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/asveenk/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/asveenk/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/asveen",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    
+    "education": [
+      {
+        "school": "Guru Gobind Singh Inderprastha University",
+        "degree": "B.Tech in Information Technology",
+        "graduated": "July 2019",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Wipro Limited",
+        "title": "Project Engineer",
+        "years": "July 2019 - Present",
+        "description": "Working with Enterprise Fraud and Risk Managment Team. Worked in Reporting Team, and RSA Team.Currently Developing Rules to Detect Fraud using SAS EFRMS. Developed Reports using WebI and Provided Support to RSA Team."
+      }
+    ],
+    "skills": [
+      {
+        "name": "SAP BO",
+        "level": "80%"
+      },
+      {
+        "name": "RSA AA",
+        "level": "80%"
+      },
+      {
+        "name": "JS",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      },
+      {
+        "name": "Java",
+        "level": "80%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "C++",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+     "portfolio": {
+    "projects": [
+      {
+        "title": "Ghostly",
+        "category": "Beginners Level Game to learn unity 3d",
+        "image": "akg.png",
+        "url": "https://github.com/Asveen/First-game"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "That Asveen has logical approach to problems. She Grab things faster and has sharp observation.",
+        "user": "Animesh Kabsi - Team Leader"
+      }
+    ]
+  }
+}
